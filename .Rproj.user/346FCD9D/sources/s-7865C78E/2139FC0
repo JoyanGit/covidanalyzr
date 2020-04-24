@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587535874266.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3790985973",
+    "id" : "2139FC0",
+    "lastKnownWriteTime" : 1587714078,
+    "last_content_update" : 1587714078116,
+    "path" : "C:/Users/212364780/Box Sync/Joyan_Root/Professional/Professional Certificate - Data Science/R Package Folder/covidanalyzr/R/print_case_graph.R",
+    "project_path" : "R/print_case_graph.R",
+    "properties" : {
+        "cursorPosition" : "20,30",
+        "scrollLine" : "13",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

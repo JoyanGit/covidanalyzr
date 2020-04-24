@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587453528962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3ADC5B7",
+    "lastKnownWriteTime" : 1587708334,
+    "last_content_update" : 1587708334735,
+    "path" : "C:/Users/212364780/Box Sync/Joyan_Root/Professional/Professional Certificate - Data Science/R Package Folder/covidanalyzr/R/add_case_death_counts.R",
+    "project_path" : "R/add_case_death_counts.R",
+    "properties" : {
+        "cursorPosition" : "98,40",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

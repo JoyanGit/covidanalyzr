@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587536082175.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "906597352",
+    "id" : "20100847",
+    "lastKnownWriteTime" : 1587714983,
+    "last_content_update" : 1587714983119,
+    "path" : "C:/Users/212364780/Box Sync/Joyan_Root/Professional/Professional Certificate - Data Science/R Package Folder/covidanalyzr/R/print_case_tiles.R",
+    "project_path" : "R/print_case_tiles.R",
+    "properties" : {
+        "cursorPosition" : "21,31",
+        "scrollLine" : "15",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
